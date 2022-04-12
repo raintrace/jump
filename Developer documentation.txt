@@ -1,0 +1,18 @@
+1.The source code is in GitHub and can be obtained by yourself
+
+2.We can find the Source files, tests, documents, data files found in .idea. We can find the pictures from the assets folder,And the music is placed in the root file.
+
+3.class Bird:use to define a bird.  
+def __ init__ : build the basic framework  
+Def birdupdate : build the movement of birds 
+class Pipeline:Building obstacles
+def createMap:Create game background
+def checkDead():Define the character's death
+def getResutl():Get results
+if __name__ == '__main__':main program
+
+4.First, test whether the game characters can operate and control correctly, then test whether the game can operate normally, that is, whether it will be judged as the end of the game and calculate the score when encountering boundaries and obstacles, then test whether the score system can correctly count and display the score, finally test whether the game background music and characters can operate normally and switch, and finally test the whole, See whether the whole can operate correctly.
+
+5.Name in order
+
+6.Developers should specify a starting software version and then check the updated iterative version in turn. Developers should check whether there are vulnerabilities

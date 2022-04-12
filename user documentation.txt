@@ -1,0 +1,6 @@
+1.The system provides an entertaining game for users. Users can play this game to relieve pressure, adjust mood and harvest quickly.
+2.Users need to install the pyGame Library in advance, then download the code from GitHub and run it directly after downloading。
+3.Click open to use after downloading pyGame
+4.Click the application program of the document to run the game on the computer, and the mobile terminal is to be developed。
+5.If there is an error or bug, please send an error report to my GitHub or email me to fix it as soon as possible
+6.So far, we haven't found any bugs that affect the progress of the game when we test
